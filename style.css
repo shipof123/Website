@@ -6,3 +6,8 @@ body
   background-size: cover;
   color:red;
 }
+pre
+{
+  style="color:red;
+  background-color:black;
+}
