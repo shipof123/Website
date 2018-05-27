@@ -3,4 +3,6 @@ body
   background-image: url(https://vignette.wikia.nocookie.net/powerlisting/images/7/79/Thumbs.jpg/revision/latest?cb=20121212132913);
   background-repeat: no-repeat;
   background-position: center;
+  background-size: cover;
+  color:red;
 }
